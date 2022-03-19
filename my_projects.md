@@ -60,19 +60,35 @@ Role              : App Development And web development (http://wind.ly/)
 Technology : Cordova, Angular js, Phonegap, IonicFramework
 
 http://nebula-robotics.com/
+
 http://dealwithit.in/
+
 http://wealthzap.com
+
 http://wealthzap.com/angular-project
+
 https://revbooks.in/
+
 https://app.plumiq.com/
+
 http://acceliant.com/
+
 www.shreedhar.info
+
 https://www.vibertickets.com/
+
 https://buychat.ng/
+
 https://wind.ly/
+
 http://funnelup.co./
+
 http://www.marketgalee.com/
+
 http://www.diningcircle.com/
+
 http://www.ukmalayalee.com/
+
 https://app.andamanconnect.com/
+
 https://host.thecalllist.com/
