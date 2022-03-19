@@ -154,6 +154,10 @@ https://gleantap.com/
 
 https://newshealthtracker.web.app/
 
+https://www.raztechnology.com/
+
+https://clusterbrains.com/
+
 https://upstateunited.com/
 
 https://solartoswitch.com
@@ -225,10 +229,6 @@ http://kspecobricks.com/
 http://diamondwiki.co/
 
 https://www.fitcater.com/
-
-https://www.raztechnology.com/
-
-https://clusterbrains.com/
 
 http://godsomgull.com/
 
