@@ -1,6 +1,6 @@
 # My projects
 
-**Project-** https://shaale.com, 
+**Project-** https://shaale.com
 
 **Role-** Design and development shaale web app and project deployment.
 
