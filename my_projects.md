@@ -142,6 +142,10 @@
 
 ---
 
+https://7yellow.ie/
+
+https://www.joulebottle.com/
+
 https://www.suryaagro.tech/
 
 https://www.urbanhawksolar.com/
